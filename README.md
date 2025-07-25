@@ -1,1 +1,5 @@
-The finished file is the parralel voltage control if we receive the matrix from first FPGA, second project is the project where we implement only 1 FPGA for parallel matrix control 
+Here we use the PYNQ Z2 FPGA to generate the 10x1 matrix(that describes the PWM of sending voltages) in PS and then send this matrix into the PL system, where we distribute this matrix in parallel into 10 active metasurfaces.<br>
+The Host was written by Xingyu FAN
+
+
+
