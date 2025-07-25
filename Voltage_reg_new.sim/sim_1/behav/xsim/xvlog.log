@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_xbar_1/sim/design_1_xbar_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_xbar_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_s00_mmu_0/sim/design_1_s00_mmu_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_s00_mmu_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_Matrix_Distributor_0_0/sim/design_1_Matrix_Distributor_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_Matrix_Distributor_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_axi_interconnect_1_0
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_1FDLJBY
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_NZRVUN
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_HS4N6K
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

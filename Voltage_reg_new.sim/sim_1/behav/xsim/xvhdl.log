@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.srcs/sources_1/new/Matrix_distributer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Matrix_Distributor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azati/Voltage_reg_new/Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_proc_sys_reset_0_0/sim/design_1_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_proc_sys_reset_0_0'
