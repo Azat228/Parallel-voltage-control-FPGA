@@ -1,0 +1,1 @@
+This implemetatiom design using the 2 FPGA parralel voltage control, and this Xilinx design is for second FPGA that utilize distribution of the incoming signal
