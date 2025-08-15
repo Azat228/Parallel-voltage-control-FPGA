@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../Voltage_reg_new.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../Voltage_reg_new.gen/sources_1/bd/design_1/ipshared/34f8/hdl" --include "C:/Xilinx/Vivado/2020.2/data/xilinx_vip/include" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_xbar_1/sim/design_1_xbar_1.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_s00_mmu_0/sim/design_1_s00_mmu_0.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/ip/design_1_Matrix_Distributor_0_0/sim/design_1_Matrix_Distributor_0_0.v" \
+"../../../../Voltage_reg_new.ip_user_files/bd/design_1/sim/design_1.v" \
+"../../../../Voltage_reg_new.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
